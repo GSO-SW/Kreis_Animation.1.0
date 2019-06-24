@@ -1,0 +1,10 @@
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\bin\Debug\Kreis_Animation.1.0.exe.config
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\bin\Debug\Kreis_Animation.1.0.exe
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\bin\Debug\Kreis_Animation.1.0.pdb
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\obj\Debug\Kreis_Animation.1.0.csprojAssemblyReference.cache
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\obj\Debug\Kreis_Animation._1._0.Form1.resources
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\obj\Debug\Kreis_Animation._1._0.Properties.Resources.resources
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\obj\Debug\Kreis_Animation.1.0.csproj.GenerateResource.cache
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\obj\Debug\Kreis_Animation.1.0.csproj.CoreCompileInputs.cache
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\obj\Debug\Kreis_Animation.1.0.exe
+C:\Users\Mert Alkan\source\repos\Kreis_Animation.1.0\Kreis_Animation.1.0\obj\Debug\Kreis_Animation.1.0.pdb
